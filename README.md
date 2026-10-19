@@ -31,5 +31,4 @@ EUR 377,549 was reimbursed without valid travel authorisation.
 - Microsoft Word — analytical report
 
 ## Team
-Grace Ishimwe, Immaculate Woulbaah, Nelly Enjoh Bayere, 
-Elijah Shoroye, Maxwell Ebai Ekwati
+Group 6
